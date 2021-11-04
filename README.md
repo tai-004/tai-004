@@ -1,8 +1,8 @@
 ### Olá, Seja bem vindo ao meu perfil. 👋
 - 🔭 Estou trabalhando com front-and.
 - 🌱 Estudando Html, css, Javascript, python e c++.
-- 📫 How to reach me: email: taianasilva120@gmail.com
-- 😄 Pronouns: ela/dela.
+- 📫 Email: taianasilva120@gmail.com
+- 😄 Pronomes: ela/dela.
 - 🎓 Estudante de informática. 
 
 <div align="center">
