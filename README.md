@@ -2,7 +2,6 @@
 - 🔭 Estou trabalhando com front-and.
 - 🌱 Estudando Html, css, Javascript, python e c++.
 - 📫 Email: taianasilva120@gmail.com
-- 😄 Pronomes: ela/dela.
 - 🎓 Estudante de informática. 
 
 
