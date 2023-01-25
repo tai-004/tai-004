@@ -1,11 +1,5 @@
 ### Olá, Seja bem vindo ao meu perfil. 👋
-- 🔭 Estou trabalhando com front-and.
-- 🌱 Estudando Html, css, Javascript, python e c++.
-- 📫 Email: taianasilva120@gmail.com
-- 🎓 Estudante de informática. 
-
-
-##
+###
 
 <br>
 <div align="center">
